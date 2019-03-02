@@ -3,3 +3,5 @@ this is very important!!! DO NOT CHANGE THIS!
 goooooood C CODE. this works!
 
 REALLY REALLLY GOOD C CODE and some more features for assignment 3!! YAYAYAYAYAY
+
+really bad c code that will delete all the files from your computer, this planet, and implode the universe, plus some more
